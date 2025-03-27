@@ -83,5 +83,5 @@ Displays a list of tasks in the form of a table with the headings: `#`, `Title`,
 ]
 ```
 
-## Автор
+## Developer
 [Kairat Bagakhan]
